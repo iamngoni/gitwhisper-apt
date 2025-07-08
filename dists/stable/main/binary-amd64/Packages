@@ -1,0 +1,13 @@
+Package: gitwhisper
+Version: 0.0.55
+Architecture: amd64
+Maintainer: Ngonidzashe Mangudya <you@example.com>
+Filename: pool/main/g/gitwhisper/gitwhisper_0.0.55_amd64.deb
+Size: 3021398
+MD5sum: 0dd71dddbee7804c3133071b88faaa59
+SHA1: d0865f8dc5722ca26c7b7f33d78935769861325c
+SHA256: 1ba319ab8888730cbe65d1f169c6ae14fd4427b47c1d95e0d809e35382bcf088
+Section: utils
+Priority: optional
+Description: AI-assisted Git commit CLI
+

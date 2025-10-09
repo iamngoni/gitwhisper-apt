@@ -1,0 +1,7 @@
+Origin: GitWhisper
+Label: GitWhisper
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: GitWhisper APT Repository

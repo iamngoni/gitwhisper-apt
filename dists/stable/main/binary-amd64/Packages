@@ -1,12 +1,12 @@
 Package: gitwhisper
-Version: 1.0.3
+Version: 1.0.4
 Architecture: amd64
 Maintainer: Ngonidzashe Mangudya <imngonii@gmail.com>
-Filename: pool/main/g/gitwhisper/gitwhisper_1.0.3_amd64.deb
-Size: 3269068
-MD5sum: 8afb61992b1a3116cea07556d7968f95
-SHA1: f8a739a99bd8b30fe6e2d8a03b35b6da0a9ad0af
-SHA256: 758cabbd95e369ff361979950ab9a042a1b671ea155fe41ea7ebb0f9a5fadb05
+Filename: pool/main/g/gitwhisper/gitwhisper_1.0.4_amd64.deb
+Size: 3281608
+MD5sum: c12cac694ec00f9ed395a3c9d2551fa8
+SHA1: 9f294c1db944debcee2fc30af8a3d1c6c99d9759
+SHA256: ca60c10efa0b792d25fac8636a2bf66c49c4623dfb3c3ced4eb4cc8086eaa58a
 Section: utils
 Priority: optional
 Description: AI-assisted Git commit CLI. Includes both  and  commands.
